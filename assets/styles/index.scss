@@ -1,1 +1,35 @@
 @import '~bootstrap/scss/bootstrap';
+body {
+  background-color: #ad5d30;
+}
+button {
+  background-color: #ad5d30;
+  color: white;
+}
+header {
+  padding-top: 120px;
+  padding-bottom: 20px;
+}
+.column {
+  float: left;
+  width: 50%;
+  height: 95%;
+  column-fill: auto;
+}
+.right {
+  background-color: #e88e97;
+  height: 95%;
+
+}
+
+.left {
+  background-color: #2b3747;
+}
+
+.orange {
+  color: #d2524f;
+}
+
+.white {
+  color: white;
+}
